@@ -1,4 +1,4 @@
 # Ballon
 Ballon machine device
 
-本科毕设部分资料
+本人本科设计时的部分资料
